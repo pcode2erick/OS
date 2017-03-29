@@ -1,6 +1,4 @@
 #!/bin/bash
-#Author: KWOK Tsun Lam 
-#ID:16042731D
 
 list=($@)
 fname=${!#}
